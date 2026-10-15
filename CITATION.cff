@@ -16,3 +16,14 @@ keywords:
   - large language models
   - fairness
   - English language learners
+preferred-citation:
+  type: article
+  status: preprint
+  title: "Fixed by AI, Flagged as AI: A Matched Audit of AI-Text Detectors on 12,132 Student Essays"
+  authors:
+    - family-names: Sukhanov
+      given-names: Zakhar
+      affiliation: Independent researcher
+  doi: 10.5281/zenodo.23400778
+  url: "https://doi.org/10.5281/zenodo.23400778"
+  year: 2026

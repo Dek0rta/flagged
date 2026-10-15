@@ -17,13 +17,13 @@
 #show link: it => text(fill: rgb("#1e4fa0"), it)
 
 #align(center)[
-  #text(size: 17pt, weight: "bold")[Fixed by AI, Flagged as AI: A Matched Audit of AI-Text Detectors \ on #thousands(s.n.native + s.n.ell + s.n.ellipse) Student Essays]
+  #text(size: 17pt, weight: "bold", hyphenate: false)[Fixed by AI, Flagged as AI: \ A Matched Audit of AI-Text Detectors \ on #thousands(s.n.native + s.n.ell + s.n.ellipse) Student Essays]
   #v(0.6em)
   #text(size: 11pt)[Zakhar Sukhanov]
   #v(0.1em)
   #text(size: 9.5pt)[Independent researcher · #link("mailto:zexa1993@outlook.com")[zexa1993\@outlook.com] · #link("https://www.linkedin.com/in/zakhar-sukhanov-1ba2313b6/")[LinkedIn] · #link("https://github.com/Dek0rta")[GitHub]]
   #v(0.1em)
-  #text(size: 9.5pt)[Preprint · DOI #link("https://doi.org/10.5281/zenodo.23400437")[10.5281/zenodo.23400437] · #datetime.today().display("[day] [month repr:long] [year]")]
+  #text(size: 9.5pt)[Preprint · DOI #link("https://doi.org/10.5281/zenodo.23400778")[10.5281/zenodo.23400778] · #datetime.today().display("[day] [month repr:long] [year]")]
 ]
 
 #v(0.8em)
