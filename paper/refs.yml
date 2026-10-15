@@ -1,0 +1,181 @@
+liang2023:
+  type: article
+  title: GPT detectors are biased against non-native English writers
+  author: ["Liang, Weixin", "Yuksekgonul, Mert", "Mao, Yining", "Wu, Eric", "Zou, James"]
+  date: 2023
+  serial-number:
+    doi: 10.1016/j.patter.2023.100779
+    arxiv: "2304.02819"
+  parent:
+    type: periodical
+    title: Patterns
+    volume: 4
+    issue: 7
+
+hans2024:
+  type: article
+  title: "Spotting LLMs with Binoculars: Zero-shot detection of machine-generated text"
+  author: ["Hans, Abhimanyu", "Schwarzschild, Avi", "Cherepanova, Valeriia", "Kazemi, Hamid", "Saha, Aniruddha", "Goldblum, Micah", "Geiping, Jonas", "Goldstein, Tom"]
+  date: 2024
+  serial-number:
+    arxiv: "2401.12070"
+  parent:
+    type: proceedings
+    title: Proceedings of the 41st International Conference on Machine Learning (ICML)
+
+bao2024:
+  type: article
+  title: "Fast-DetectGPT: Efficient zero-shot detection of machine-generated text via conditional probability curvature"
+  author: ["Bao, Guangsheng", "Zhao, Yanbin", "Teng, Zhiyang", "Yang, Linyi", "Zhang, Yue"]
+  date: 2024
+  serial-number:
+    arxiv: "2310.05130"
+  parent:
+    type: proceedings
+    title: International Conference on Learning Representations (ICLR)
+
+mitchell2023:
+  type: article
+  title: "DetectGPT: Zero-shot machine-generated text detection using probability curvature"
+  author: ["Mitchell, Eric", "Lee, Yoonho", "Khazatsky, Alexander", "Manning, Christopher D.", "Finn, Chelsea"]
+  date: 2023
+  serial-number:
+    arxiv: "2301.11305"
+  parent:
+    type: proceedings
+    title: Proceedings of the 40th International Conference on Machine Learning (ICML)
+
+hu2023:
+  type: article
+  title: "RADAR: Robust AI-text detection via adversarial learning"
+  author: ["Hu, Xiaomeng", "Chen, Pin-Yu", "Ho, Tsung-Yi"]
+  date: 2023
+  serial-number:
+    arxiv: "2307.03838"
+  parent:
+    type: proceedings
+    title: Advances in Neural Information Processing Systems (NeurIPS)
+
+guo2023:
+  type: article
+  title: "How close is ChatGPT to human experts? Comparison corpus, evaluation, and detection"
+  author: ["Guo, Biyang", "Zhang, Xin", "Wang, Ziyuan", "Jiang, Minqi", "Nie, Jinran", "Ding, Yuxuan", "Yue, Jianwei", "Wu, Yupeng"]
+  date: 2023
+  serial-number:
+    arxiv: "2301.07597"
+
+solaiman2019:
+  type: report
+  title: Release strategies and the social impacts of language models
+  author: ["Solaiman, Irene", "Brundage, Miles", "Clark, Jack", "Askell, Amanda", "Herbert-Voss, Ariel", "Wu, Jeff", "Radford, Alec", "Krueger, Gretchen", "Kim, Jong Wook", "Kreps, Sarah", "McCain, Miles", "Newhouse, Alex", "Blazakis, Jason", "McGuffie, Kris", "Wang, Jasmine"]
+  date: 2019
+  serial-number:
+    arxiv: "1908.09203"
+
+dugan2024:
+  type: article
+  title: "RAID: A shared benchmark for robust evaluation of machine-generated text detectors"
+  author: ["Dugan, Liam", "Hwang, Alyssa", "Trhlik, Filip", "Ludan, Josh Magnus", "Zhu, Andrew", "Xu, Hainiu", "Ippolito, Daphne", "Callison-Burch, Chris"]
+  date: 2024
+  serial-number:
+    arxiv: "2405.07940"
+  parent:
+    type: proceedings
+    title: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL)
+
+crossley2024:
+  type: article
+  title: "A large-scale corpus for assessing written argumentation: PERSUADE 2.0"
+  author: ["Crossley, Scott A.", "Baffour, Perpetual", "Tian, Yu", "Franklin, Alex", "Benner, Meg", "Boser, Ulrich"]
+  date: 2024
+  parent:
+    type: periodical
+    title: Assessing Writing
+    volume: 61
+
+crossley2023:
+  type: article
+  title: Measuring second language proficiency using the English Language Learner Insight, Proficiency and Skills Evaluation (ELLIPSE) corpus
+  author: ["Crossley, Scott A.", "Tian, Yu", "Baffour, Perpetual", "Franklin, Alex", "Kim, Youngmeen", "Morris, Wesley", "Benner, Meg", "Picou, Aigner", "Boser, Ulrich"]
+  date: 2023
+  page-range: 248-269
+  parent:
+    type: periodical
+    title: International Journal of Learner Corpus Research
+    volume: 9
+    issue: 2
+
+emi2024:
+  type: report
+  title: Technical report on the Pangram AI-generated text classifier
+  author: ["Emi, Bradley", "Spero, Max"]
+  date: 2024
+  serial-number:
+    arxiv: "2402.14873"
+
+jabarian2025:
+  type: report
+  title: Artificial writing and automated detection
+  author: ["Jabarian, Brian", "Imas, Alex"]
+  date: 2025
+  serial-number: NBER Working Paper 34223
+  publisher: National Bureau of Economic Research
+
+gptzero2023:
+  type: web
+  title: 5 steps towards responsible AI detection
+  author: GPTZero
+  date: 2023
+  url: https://gptzero.me/news/5-steps-towards-responsible-ai-detection
+
+qwen2024:
+  type: report
+  title: Qwen2.5 technical report
+  author: Qwen Team
+  date: 2024
+  serial-number:
+    arxiv: "2412.15115"
+
+black2021:
+  type: misc
+  title: "GPT-Neo: Large scale autoregressive language modeling with Mesh-Tensorflow"
+  author: ["Black, Sid", "Gao, Leo", "Wang, Phil", "Leahy, Connor", "Biderman, Stella"]
+  date: 2021
+  serial-number:
+    doi: 10.5281/zenodo.5297715
+
+daigt2023:
+  type: web
+  title: "LLM - Detect AI Generated Text (Kaggle competition) and the DAIGT v2 training set"
+  author: Kaggle
+  date: 2023
+  url: https://www.kaggle.com/competitions/llm-detect-ai-generated-text
+
+desklib2025:
+  type: web
+  title: desklib/ai-text-detector-v1.01 (model card)
+  author: Desklib
+  date: 2025
+  url: https://huggingface.co/desklib/ai-text-detector-v1.01
+
+fakespot2025:
+  type: web
+  title: "ApolloDFT: AI text detector (fakespot-ai/roberta-base-ai-text-detection-v1)"
+  author: Fakespot AI Labs
+  date: 2025
+  url: https://github.com/FakespotAILabs/ApolloDFT
+
+superannotate2024:
+  type: web
+  title: SuperAnnotate/ai-detector (model card)
+  author: SuperAnnotate
+  date: 2024
+  url: https://huggingface.co/SuperAnnotate/ai-detector
+
+park2026:
+  type: report
+  title: "Style as a confound: False positives in AI detection of non-native academic writing"
+  author: ["Park, Hyeonchu", "Jeong, Gahye", "Kim, Bugeun"]
+  date: 2026
+  serial-number:
+    arxiv: "2608.26710"
