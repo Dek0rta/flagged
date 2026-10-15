@@ -6,6 +6,7 @@ authors:
     given-names: Zakhar
     affiliation: Independent researcher
 type: software
+doi: 10.5281/zenodo.23400437
 license: MIT
 repository-code: "https://github.com/Dek0rta/flagged"
 url: "https://dek0rta.github.io/flagged/"

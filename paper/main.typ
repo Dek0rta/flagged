@@ -23,7 +23,7 @@
   #v(0.1em)
   #text(size: 9.5pt)[Independent researcher · #link("mailto:zexa1993@outlook.com")[zexa1993\@outlook.com] · #link("https://www.linkedin.com/in/zakhar-sukhanov-1ba2313b6/")[LinkedIn] · #link("https://github.com/Dek0rta")[GitHub]]
   #v(0.1em)
-  #text(size: 9.5pt)[Draft of #datetime.today().display("[day] [month repr:long] [year]")]
+  #text(size: 9.5pt)[Preprint · DOI #link("https://doi.org/10.5281/zenodo.23400437")[10.5281/zenodo.23400437] · #datetime.today().display("[day] [month repr:long] [year]")]
 ]
 
 #v(0.8em)

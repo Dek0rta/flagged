@@ -1,5 +1,7 @@
 # Fixed by AI, Flagged as AI
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23400437.svg)](https://doi.org/10.5281/zenodo.23400437)
+
 **A matched audit of AI-text detectors on 12,132 student essays.**
 [Zakhar Sukhanov](https://www.linkedin.com/in/zakhar-sukhanov-1ba2313b6/), 2026 · [Paper (PDF)](paper/paper.pdf) · [Results site](https://dek0rta.github.io/flagged/) · [LinkedIn](https://www.linkedin.com/in/zakhar-sukhanov-1ba2313b6/)
 
@@ -59,7 +61,7 @@ This project was carried out with the help of Claude (Anthropic), an AI assistan
 
 ```
 Sukhanov, Z. (2026). Fixed by AI, flagged as AI: A matched audit of AI-text detectors
-on 12,132 student essays. Preprint. https://github.com/Dek0rta/flagged
+on 12,132 student essays. Preprint. https://doi.org/10.5281/zenodo.23400437
 ```
 
 Code: MIT license.
