@@ -1,0 +1,16 @@
+{
+  "title": "Fixed by AI, Flagged as AI: A Matched Audit of AI-Text Detectors on 12,132 Student Essays",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "<p>A 2023 Stanford study reported that AI-text detectors flag most essays by non-native English writers as AI-generated, comparing 91 TOEFL answers with essays by US students on other topics. This project repeats the test with a matched design: 12,132 student essays, including 8,244 in which English learners and native speakers in US schools answered the same prompts (PERSUADE 2.0, ELLIPSE), 2,989 AI-written essays on those prompts, and nine open detectors released between 2019 and 2025.</p><p>On the original TOEFL essays the result holds (43–97% flagged by trained detectors). On matched essays it does not: 7 of 9 detectors flag English learners significantly less often than native speakers, and none flags them more often. A light grammar correction by a language model raises false flags for every detector (up to 57 times for English learners' essays), while a dictionary spellcheck barely changes them. The archive contains the paper, code, per-essay detector scores and the results website.</p>",
+  "creators": [
+    {"name": "Sukhanov, Zakhar", "affiliation": "Independent researcher"}
+  ],
+  "license": "MIT",
+  "keywords": ["AI-text detection", "large language models", "fairness", "English language learners", "education", "college admissions"],
+  "related_identifiers": [
+    {"identifier": "https://dek0rta.github.io/flagged/", "relation": "isDocumentedBy", "resource_type": "other"},
+    {"identifier": "10.1016/j.patter.2023.100779", "relation": "references", "resource_type": "publication-article"}
+  ],
+  "language": "eng"
+}

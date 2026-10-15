@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Fixed by AI, Flagged as AI: A Matched Audit of AI-Text Detectors on 12,132 Student Essays"
+authors:
+  - family-names: Sukhanov
+    given-names: Zakhar
+    affiliation: Independent researcher
+type: software
+license: MIT
+repository-code: "https://github.com/Dek0rta/flagged"
+url: "https://dek0rta.github.io/flagged/"
+date-released: 2026-10-15
+keywords:
+  - AI-text detection
+  - large language models
+  - fairness
+  - English language learners
