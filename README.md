@@ -1,7 +1,7 @@
 # Fixed by AI, Flagged as AI
 
 **A matched audit of AI-text detectors on 12,132 student essays.**
-Zakhar Sukhanov, 2026 · [Paper (PDF)](paper/paper.pdf) · [Results site](https://dek0rta.github.io/flagged/)
+[Zakhar Sukhanov](https://www.linkedin.com/in/zakhar-sukhanov-1ba2313b6/), 2026 · [Paper (PDF)](paper/paper.pdf) · [Results site](https://dek0rta.github.io/flagged/) · [LinkedIn](https://www.linkedin.com/in/zakhar-sukhanov-1ba2313b6/)
 
 A widely cited 2023 study ([Liang et al.](https://arxiv.org/abs/2304.02819)) found that AI-text detectors flag most essays by non-native English writers as AI-generated. Its evidence compares 91 short TOEFL answers with essays by US students on other topics. This project asks the question again with essays in which English learners and native speakers answered **the same prompts**, and then edits the same human essays to see what actually triggers a false flag.
 
